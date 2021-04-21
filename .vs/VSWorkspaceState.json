@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\database",
+    "\\src\\database\\migrations"
+  ],
+  "SelectedNode": "\\src\\database\\migrations\\1618955661571-CreateSettings.ts",
+  "PreviewInSolutionExplorer": false
+}
